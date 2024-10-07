@@ -24,6 +24,10 @@ header {
 
 
 h1 {
+    background-color: rgba(0, 0, 255, 0.5); /* Yeşil arka plan, %30 şeffaf */
+    padding: 10px;
+    display: inline-block;
+    border-radius: 15px;
     font-size: 3em;
 }
 
